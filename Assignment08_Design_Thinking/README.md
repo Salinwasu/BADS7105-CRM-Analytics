@@ -1,1 +1,5 @@
-
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment08_Design_Thinking/empathize.PNG)
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment08_Design_Thinking/define.PNG)
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment08_Design_Thinking/ideate.PNG)
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment08_Design_Thinking/prototype.PNG)
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment08_Design_Thinking/test.PNG)

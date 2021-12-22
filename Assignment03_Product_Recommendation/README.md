@@ -1,5 +1,7 @@
 # Product recommendation
 
+## Dataset
+A survey asking whether or not the student in class has ever purchased or not an item.
 product
 - โปรแกรมแท้
 - เครื่องซักผ้า
@@ -27,3 +29,5 @@ product
 - วัตถุมงคล
 - กระบองเพชรพูดได้
 - ROV Skin
+
+## Creaning Data

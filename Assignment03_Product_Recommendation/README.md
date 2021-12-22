@@ -2,6 +2,7 @@
 
 ## Dataset
 A survey asking whether or not the student in class has ever purchased or not an item.
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment03_Product_Recommendation/Dataset.png)
 product
 - โปรแกรมแท้
 - เครื่องซักผ้า
@@ -31,3 +32,10 @@ product
 - ROV Skin
 
 ## Creaning Data
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment03_Product_Recommendation/Cleaning%20Data.png)
+
+## The Apriori algorithm
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment03_Product_Recommendation/apiori1.png)
+
+## Final Association Rules
+![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment03_Product_Recommendation/rule.png)

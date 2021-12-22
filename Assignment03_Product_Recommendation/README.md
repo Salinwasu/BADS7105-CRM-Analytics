@@ -39,3 +39,8 @@ product
 
 ## Final Association Rules
 ![alt text](https://github.com/Salinwasu/BADS7105-CRM-Analytics/blob/main/Assignment03_Product_Recommendation/rule.png)
+
+## Summaize
+According to the product recomendation result
+The customers who bought รองเท้าวิ่ง have potential to buy หูฟัง Bluetooth. It may imply that the customers who bought Bluetooth Earpods tend to be familiar with fitness group that use while exercising
+

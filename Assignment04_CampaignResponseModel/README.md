@@ -28,4 +28,5 @@
 ## In conclusion
 The best model to classify in Campaign Response Model is XGBoost model - SMOTE RFM that did the best with th following score.
 AUC Score for training data = 0.7425
+and
 AUC Score for test data = 0.7298
